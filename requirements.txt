@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-groq
+langchain-core
+groq
+gtts
+python-dotenv
+SpeechRecognition
+pydub
